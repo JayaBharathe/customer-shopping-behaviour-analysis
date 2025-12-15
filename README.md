@@ -4,7 +4,7 @@
 This project analyzes customer shopping behaviour to understand purchasing patterns, customer segments, and revenue drivers. An interactive Power BI dashboard was built to support business decision-making.
 
 ## Dashboard Preview
-![Customer Behavior Dashboard](images/customer_behavior_dashboard.png)
+![Customer Behavior Dashboard](customer_behavior_dashboard.png)
 
 ## Tools Used
 - Power BI
